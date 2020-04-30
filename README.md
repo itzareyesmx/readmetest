@@ -3,7 +3,7 @@ Service to connect to the credit history in Mexico
 
 * [Círculo de Crédito - Reporte de Crédito Consolidado con FICO® Score](https://developer.circulodecredito.com.mx/productos)
 
-## :gear: Getting Started
+## Getting Started
 
 ### Installation
 #### Setup via Gradle
@@ -17,7 +17,7 @@ $ ./gradlew bootRun
 Building...
 ```
 
-## :rocket: Usage
+## Usage
 ### API Development
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/a51b1b3693658f8658b8)
@@ -35,7 +35,7 @@ $ ./gradlew test
     $ ./gradlew detekt
     ```
 
-## :blue_book: Documentation
+## Documentation
 
 ### Architecture
 ```shell
