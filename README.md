@@ -3,7 +3,7 @@ Service to connect to the credit history in Mexico
 
 * [Círculo de Crédito - Reporte de Crédito Consolidado con FICO® Score](https://developer.circulodecredito.com.mx/productos)
 
-## Getting Started
+## :gear: Getting Started
 
 ### Installation
 #### Setup via Gradle
@@ -17,7 +17,7 @@ $ ./gradlew bootRun
 Building...
 ```
 
-## Usage
+## :rocket: Usage
 ### API Development
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/a51b1b3693658f8658b8)
@@ -35,7 +35,7 @@ $ ./gradlew test
     $ ./gradlew detekt
     ```
 
-## Documentation
+## :open_book: Documentation
 
 ### Architecture
 ```shell
@@ -50,7 +50,7 @@ Building...
 ### Reference Documentation
 For further reference, please consider the following sections:
 
-* [Kotlin](https://docs.gradle.org)
+* [Official Kotlin documentation](https://kotlinlang.org/docs/reference/)
 * [Official Gradle documentation](https://docs.gradle.org)
 * [Spring Boot Gradle Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.2.6.RELEASE/gradle-plugin/reference/html/)
 * [Spring Web](https://docs.spring.io/spring-boot/docs/2.2.6.RELEASE/reference/htmlsingle/#boot-features-developing-web-applications)
